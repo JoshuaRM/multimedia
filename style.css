@@ -1,0 +1,47 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.navbar{
+    margin-left: -25px;
+    color: black;
+}
+
+footer{
+    position: bottom;
+}
+
+#assignment{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#lab{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#head{
+    font-style: oblique;
+    color: darkcyan;
+}
+
+.panel{
+    margin-left: 50px;
+    font-size: 13px;
+}
+
+body{
+    margin-left: 25px;
+}
